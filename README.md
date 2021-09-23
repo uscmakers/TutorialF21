@@ -1,7 +1,5 @@
 # TutorialF21
 
-## Need help at any time?
-If you need ANY help, feel free to make a github issue! On the top tab on the github page, you will see a tab called "issues". Please write your issue there and a member of our team will answer your questions asap! OR you can also post in the #tutorialhelp channel on slack!
 
 ## Crash Course of How to Navigate the Command Line 
 If you have windows, you want to use the "powershell" application. If you use a Mac, you want to use the "terminal".
